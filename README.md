@@ -2,6 +2,8 @@
 
 Apply Terraform with Terraform Cloud.
 
+![](https://imgur.com/iWI7eSS)
+
 ## Prerequisite
 
 - Create a workspace in Terraform cloud
@@ -18,7 +20,11 @@ git clone git@github.com:siansiansu/terraform-cloud.git
 2. Commit the changes.
 3. Open the Pull Request
 4. You will see the plan result in the comment.
+![](https://imgur.com/eMwvUNZ)
+
 5. Merge the Pull Request.
+
+
 
 ## References
 
