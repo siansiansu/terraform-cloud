@@ -2,7 +2,7 @@
 
 Apply Terraform with Terraform Cloud.
 
-![](https://imgur.com/iWI7eSS.png)
+![](https://imgur.com/UklNlWI.png)
 
 ## Prerequisite
 
